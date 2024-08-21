@@ -27,7 +27,7 @@ cd TERMUXX-WELCOME
 bash rvt.sh
 ```
 <p align="center">
-<img src="https://telegra.ph/file/b5c0c1aeb6c4a54b1f5f4.jpg" alt="MALVINKING">
+<img src="https://i.imgur.com/ozlwHK1.jpeg" alt="MALVINKING">
 
     
 ## [+] Find Me on :
