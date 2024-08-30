@@ -2,21 +2,29 @@
 ### Beautify your Termux App With a warm welcome
 
 ## [+] Installation & Usage
+``
 ```
 apt update
-
+```
+```
 apt install git -y
-
+```
+```
 pkg install mpv -y
-
+```
+```
 git clone https://github.com/kingmalvn/TERMUXX-WELCOME
-
+```
+```
 cd TERMUXX-WELCOME
-
+```
+```
 chmod +x *
-
+```
+```
 sh install.sh
-
+```
+```
 exit
 ```
 
